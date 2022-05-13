@@ -1,0 +1,3 @@
+20103100555, tran quang nong, 12/3/2002, hai duong, 2021, cntt, 86, 53, 0, 0
+2, tran quang long, 3/12/2002, Ha noi, 2020, cntt, 86, 53, 0, 0
+1, long, 3/12/2002, hd, 2020, cntp, 85, 4, 0, 0
